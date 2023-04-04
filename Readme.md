@@ -1,1 +1,2 @@
 This code is a ready to use code for doing meta-analysis of events in two group using metafor package of R. Useful links and descriptions are embeded in the code. Hope it can help you to perform precise meta analysis. Email me if you have any problem with anything :)
+This code include: Notes on esclas. Meta-analysis by random effect model. Forest plot. Funnel plot. Outlier detection. sensitivity analysis (leav-1-out). Checking the moderators. Cummulative meta analysis. Advanced forest plot. Reporter. 

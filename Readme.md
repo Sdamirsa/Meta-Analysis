@@ -1,0 +1,1 @@
+This code is a ready to use code for doing meta-analysis of events in two group using metafor package of R. Useful links and descriptions are embeded in the code. Hope it can help you to perform precise meta analysis. Email me if you have any problem with anything :)
